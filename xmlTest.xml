@@ -1,0 +1,22 @@
+<bookstore>  
+  <book category="COOKING">  
+    <title lang="en">Everyday Italian</title>  
+    <author>Giada De Laurentiis</author>  
+    <year>2005</year>  
+    <price>30.00</price>  
+    <version>1.5.6</version>
+  </book>  
+  <book category="CHILDREN">  
+    <title lang="en">Harry Potter</title>  
+    <author>J K. Rowling</author>  
+    <year>2005</year>  
+    <price>29.99</price>
+    <version2>2.5.6</version2>
+  </book>  
+  <book category="WEB">  
+    <title lang="en">Learning XML</title>  
+    <author>Erik T. Ray</author>  
+    <year>2003</year>  
+    <price>39.95</price>  
+  </book>  
+</bookstore> 
